@@ -95,7 +95,7 @@ environments {
 1. Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/diegoalejoreyes/PruebaTecnica_RapppiPay_Serenity_API.git
 cd Prueba_API_Shazam_RappiPay
 ```
 
