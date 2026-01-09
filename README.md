@@ -99,7 +99,7 @@ git clone https://github.com/diegoalejoreyes/PruebaTecnica_RapppiPay_Serenity_AP
 cd Prueba_API_Shazam_RappiPay
 ```
 
-2. Ejecutar las pruebas:
+2. Ejecutar las pruebas: (ejecutar en la carpeta raiz del proyecto clonado)
 
 ```bash
 mvn clean verify
@@ -131,7 +131,7 @@ CMD ["mvn", "verify"]
 
 ### Pasos de ejecución (Windows – PowerShell)
 
-1. Construir la imagen:
+1. Construir la imagen: (ejecutar en la carpeta raiz del proyecto clonado)
 
 ```powershell
 docker build -t serenity-api-tests .
